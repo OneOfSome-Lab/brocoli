@@ -4,7 +4,7 @@
 # with this software the key could be from 1  to 46  instead 1 to 26
 # and you can use numbers and others characters.
 # -------------------------------------------------------------------
-#  10.01.2020 blackfriar@gmx.es
+#  10.01.2020 blackfriar@gmx.com
 #---------------------------------------------
 # Python 3.6.9
 
