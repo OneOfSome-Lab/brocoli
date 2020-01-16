@@ -1,5 +1,5 @@
 #09.01.2020 16:36:29
-#made by OneofSome blackfriar@gmx.es
+#made by OneofSome blackfriar@gmx.com
 
 #This program uses the ATBASH cipher to cripto a message. Is a very simple #script wich I added numbers, so you can use numbers #in the message and at the same time make the message a bit darker
 
