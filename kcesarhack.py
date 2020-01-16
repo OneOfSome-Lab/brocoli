@@ -1,6 +1,6 @@
 #Cracker. 
 #This srcipt decrypts what was encrypted with kcesar.py also returns the encryption key
-#Python3.6.9 blackfriar@gmx.es 
+#Python3.6.9 blackfriar@gmx.com
 
 ABC = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789.,;:()%&$!?€'
 
